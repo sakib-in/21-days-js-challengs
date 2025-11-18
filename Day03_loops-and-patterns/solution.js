@@ -91,7 +91,7 @@ function printAlternatingBinaryTriangle(n) {
   }
 }
 
-/**********Homework Questions**********/
+/**********Homework Solutions**********/
 
 //1. Print Hollow Inverted Pyramid
 function printHollowPyramid(n) {
@@ -207,13 +207,11 @@ function printTablesUptoN(n) {
   }
 }
 
-
-
-
 const n = 5;
 const number = 5;
 const upto = 3;
 
+//Functions Call
 printRightTriangle(n);
 printInvertedRightTriangle(n);
 printPyramid(n);
