@@ -105,7 +105,7 @@ function checkPowerfulNumber(n) {
   }
 }
 
-/*********Homework Solutions*********/
+/*********Homework Solution*********/
 
 //1. Find the Product of All Distinct Prime Factors
 function productOfDistinctPrimeFactorCount(n) {
