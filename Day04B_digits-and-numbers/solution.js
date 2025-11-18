@@ -41,7 +41,7 @@ function isArmStrong(num) {
   }
 }
 
-/*********Homework Questions********/
+/*********Homework Solution********/
 
 //1. Find the Sum of Digits
 function sumOfDigits(num) {
