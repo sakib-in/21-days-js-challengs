@@ -79,7 +79,7 @@ function isBelongstoFibonacci(n) {
   console.log(`No, ${n} not belongs to Fibonacci`);
 }
 
-/***********Homework Questions***********/
+/***********Homework Solution***********/
 
 //1. Print All Prime Numbers up to N
 function printPrimesUptoN(n) {
