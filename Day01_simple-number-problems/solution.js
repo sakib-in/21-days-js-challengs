@@ -62,7 +62,7 @@ function printSquares(n) {
   console.log("7. Squares:", output);
 }
 
-/************Homework Questions************/
+/************Homework Solutions************/
 
 // 1. Print all numbers divisible by 3 and 5 up to n
 function printDivisibleBy3And5(n) {
